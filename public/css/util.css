@@ -1,0 +1,365 @@
+
+:root{
+    --color-one : #396a68;
+    --color-two : #faefe9;
+    --color-three : #e26c44;
+    --color-four : #f6a939;
+    --color-five : #96a3a8;
+    --color-six : #ecc6a3;
+    --color-seven : #f1977f;
+    --color-eight :#eacab7;
+    --color-nine : #6cd7af;
+}
+
+
+
+.flex{
+    display: flex;
+}
+.flex-1{
+    align-items: center;
+    justify-content: center;
+}
+.flex-2{
+    align-items: center;
+    justify-content: space-between;
+}
+.flex-align{
+    align-items: center;
+}
+.flex-justify{
+    justify-content: center;
+}
+.flex-dir{
+    flex-direction: column;
+}
+.grid{
+    display: grid;
+}
+.grid-1-col{
+    grid-template-columns: repeat(1,1fr);
+}
+.grid-2-col{
+    grid-template-columns: repeat(2,1fr);
+}
+.grid-3-col{
+    grid-template-columns: repeat(3,1fr);
+}
+.grid-4-col{
+    grid-template-columns: repeat(4,1fr);
+}
+.grid-5-col{
+    grid-template-columns: repeat(5,1fr);
+}
+.grid-6-col{
+    grid-template-columns: repeat(6,1fr);
+}
+.grid-7-col{
+    grid-template-columns: repeat(7,1fr);
+}
+.grid-8-col{
+    grid-template-columns: repeat(8,1fr);
+}
+.grid-15-col{
+    grid-template-columns: repeat(15,1fr);
+
+}
+.gap08{
+    gap : 0.8rem;
+}
+.gap16{
+    gap : 1.6rem;
+}
+.gap24{
+    gap : 2.4rem;
+}
+.gap32{
+    gap : 3.2rem;
+}
+.gap48{
+    gap : 4.8rem;
+}
+.gap64{
+    gap : 6.4rem;
+}
+.gap72{
+    gap : 7.2rem;
+}
+.gap96{
+    gap : 9.6rem;
+}
+
+.pad08{
+    padding : 0.8rem;
+}
+.pad16{
+    padding : 1.6rem;
+}
+.pad24{
+    padding : 2.4rem;
+}
+.pad32{
+    padding : 3.2rem;
+}
+.pad48{
+    padding : 4.8rem;
+}
+.pad64{
+    padding : 6.4rem;
+}
+.pad72{
+    padding : 7.2rem;
+}
+.pad96{
+    padding : 9.6rem;
+}
+.logo{
+    font-size: 1.6rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: var(--color-two);
+}
+.logo-img{
+    width: 4.8rem;
+    height: 2.4rem;
+}
+.logo-img-foot{
+    width: 9.6rem;
+    height: 4.8rem;
+}
+.logo-img-update{
+    width: 2.4rem;
+    height: 1.2rem;
+}
+/************links**********/
+.foot-link:link,.foot-link:visited,.link:link,.link:visited,.menubar-link:link,.menubar-link:visited{
+    text-decoration: none;
+    display: inline-block;
+    color: var(--color-two);
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+}
+.menubar-link:link,.menubar-link:visited{
+    padding: 0.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 0.1rem solid var(--color-two);
+}
+
+.actionBtn{
+    color: var(--color-two);
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+    border: none;  
+    background: none;
+    cursor: pointer;
+}
+.foot-link:link,.foot-link:visited{
+    padding: 0;
+}
+.input,.button{
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem 0 0 1rem;
+}
+.input{
+    width: 50%;
+}
+.button{
+    border-radius: 0rem 1rem 1rem 0;
+    padding: 1rem 3rem;
+    background-color: var(--color-one);
+    color: var(--color-two);
+    cursor: pointer;
+}
+.input:focus,.button:focus{
+    outline: 0.5rem solid var(--color-three);
+}
+.input-search--update{
+    background-color: var(--color-one);
+    color: var(--color-two);
+}
+.input-search--update::placeholder{
+    color: var(--color-two);
+}
+.input-form--shop-inventory{
+    border-radius: 1rem 0 0 1rem !important;
+}
+.btn,.signup-btn,.login-btn,.search,.useCurrentLocation{
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: var(--color-two);
+    color: #000;
+    cursor: pointer;
+}
+.useCurrentLocation{
+    padding: 0.5rem;
+    margin-right: 1.6rem;
+}
+.search,.search-product-byname,.searchInInventory{
+    background-color: var(--color-three);
+    border-radius: 0 1rem 1rem 0;
+    padding: 1rem 2rem;
+    color: var(--color-two);
+}
+.search-product-byname,.searchInInventory{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+}
+.wishlist,.visit-shop{
+    border: none;
+    background: none;
+    padding: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+.visit-shop{
+    font-size: 1.6rem;
+}
+/* .wishlist{
+    box-shadow: inset 0 0 0 0.3rem var(--color-one);
+    color: #fff;
+} */
+.visit-shop,.wishlist{
+    /* background-image: linear-gradient(to left, var(--color-three), var(--color-four));  */
+    /* background-image: linear-gradient(to left bottom, var(--color-one), var(--color-nine)); */
+    background-color: var(--color-one);
+    width: 100%;
+    color: #fff;
+}
+.forgot-password{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #fff;
+    text-align: center;
+}
+/*******************login and all other forms**************/
+.label-form{
+    font-size: 1.4rem;
+}
+.input-form,.select{
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.input--update{
+    padding: 0.5rem;
+    margin-right: 1.6rem;
+}
+.label-form--update{
+    color: var(--color-two);
+}
+.input-form--update{
+    border-radius: 1rem 0 0 1rem;
+    width: 60vh;
+}
+.input-form:focus, .select:focus{
+    border: none;
+    outline: none;
+    
+}
+.header{
+    position: relative;
+}
+.overlay{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    cursor: pointer;
+}
+.dp{
+    width: 4.8rem;
+    height: 4.8rem;
+}
+/***************************headings****************/
+.secondary-heading,.fifth-heading{
+    font-size: 3.2rem;
+    background-image: linear-gradient(to left, var(--color-three), var(--color-four));  
+    -webkit-background-clip: text;
+    color: transparent;  
+}
+.fouth-heading{
+    font-size: 1.6rem;
+}
+.fifth-heading{
+    font-size: 2.4rem;
+}
+.sixth-heading{
+    font-size: 2.4rem;
+    color: #fff;
+}
+.foot-heading{
+    font-size: 1.6rem;
+    color: #fff;
+}
+.all-shops-heading{
+    font-size: 1.8rem;
+    color: var(--color-one);
+}
+
+.option-1{
+    font-size: 1.4rem;
+    padding: 1rem;
+    background-color: var(--color-four);
+    border-radius: 1rem;
+    color: var(--color-two);
+    border: none;
+    cursor: pointer;
+}
+.subheading{
+    font-size: 1.6rem;
+    color: #333;
+}
+.icon{
+    width: 4.8rem;
+    height: 4.8rem;
+    padding: 1rem;
+    border-radius: 10%;
+    background-color: #396a68;
+    box-shadow: 0rem 0rem 0.5rem var(--color-two);
+}
+
+
+/**********************************shop-registeration*************************/
+.label-shop{
+    font-size: 1.4rem;
+}
+.input-shop,.select-shop,.select-form {
+    border: none;
+    padding: 1rem;
+    background-color: #6cd7b081;
+    border-radius:0 1rem 1rem 0;
+    border-left: 0.5rem solid var(--color-one);
+    color: #000;
+}
+.select-form {
+    background-color: var(--color-three);
+    border-radius: 1rem;
+    border-left: none;
+    padding: 1rem 2rem;
+    color: #fff;
+}
+.input-shop:focus,.select-shop:focus{
+    outline: none;
+    border-left: 0.5rem solid var(--color-one);
+}
+.input-shop::placeholder{
+    color: #000;
+}
+.select-form::placeholder{
+    color: #fff;
+}
+.select-form:focus{
+    outline: none;
+    border: none;
+}
+.select-shop option{
+    color: #000;
+}

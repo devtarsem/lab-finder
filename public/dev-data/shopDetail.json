@@ -1,0 +1,65 @@
+[
+    {
+        "shop_id" : "63c39aea698bdefeda20d5d6",
+        "products" : [
+            {
+                "image" : "/img/shop6.jpg",
+                "shop_name" : "brokee shoe 11",
+                "price" : "899/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+            ,
+            {
+                "image" : "/img/shop6.jpg",
+                "shop_name" : "rebok 101",
+                "price" : "999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+            ,
+            {
+                "image" : "/img/shop4.jpg",
+                "shop_name" : "recer 101",
+                "price" : "999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+            ,
+            {
+                "image" : "/img/shop1.jpg",
+                "shop_name" : "rebok 101",
+                "price" : "999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+            ,
+            {
+                "image" : "/img/shop3.jpg",
+                "shop_name" : "parms 101",
+                "price" : "1999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+        ] 
+        ,
+        "famousProducts" : [
+            {
+                "image" : "/img/shop4.jpg",
+                "shop_name" : "parms 101",
+                "price" : "1999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+            ,
+            {
+                "image" : "/img/shop2.jpg",
+                "shop_name" : "parms 101",
+                "price" : "1999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+            ,
+            {
+                "image" : "/img/shop3.jpg",
+                "shop_name" : "parms 101",
+                "price" : "1999/-",
+                "product_des" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur in enim laboriosam exercitationem, cum corporis ut, dolor alias ducimus adipisci minus eius debitis sit at illo aliquid. Praesentium, perferendis saepe!"
+            }
+        ]
+    }
+    
+]

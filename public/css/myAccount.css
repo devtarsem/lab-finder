@@ -1,0 +1,259 @@
+.section-my-account{
+    background-color: #e7e6f0;
+}
+.my-account-navigation{
+    border-radius: 1rem;
+    grid-column: 1/2;
+    height: 95vh;
+    width: 100%;
+    background-color: #fff;
+    padding-top: 4.8rem;
+}
+.my-account-setting{
+    grid-column: 2/11;
+}
+.dp-my-account{
+    height: 9.6rem;
+    width: 9.6rem;
+    border-radius: 50%;
+}
+.functionalityBtn{
+    width: 100%;
+    border: none;
+    background: none;
+    color:#000;
+    cursor: pointer;
+    font-size: 1.4rem;
+}
+.my-acc-icon{
+    width: 4rem;
+    height: 4rem;
+    color: var(--color-two);
+    padding: 0.4rem 0.8rem;
+    background-image: linear-gradient(to left, var(--color-three), var(--color-four));  
+
+    border-radius: 0.5rem;
+}
+.function-container{
+    transition: all 0.5s;
+}
+.function-container:hover{
+    background-color: var(--color-three);
+
+    /* border-bottom: 0.2rem solid var(--color-one); */
+}
+.functionalityBtn:hover{
+    color: var(--color-two);
+
+}
+.customer-name-my-acc{
+    font-size: 1.8rem;
+    color: #000;
+    font-weight: 700;
+}
+.logoutBtn{
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    color: var(--color-two);
+    background-image: linear-gradient(to left, var(--color-three), var(--color-four));  
+    cursor: pointer;
+}
+.my-account-setting{
+    background-color: #fff;
+    border-radius: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+.personal-settings,.my-shop-settings{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.my-account-setting{
+    position: relative;
+}
+.change-product-pop-up{
+    background-color: var(--color-four);
+    position: absolute;
+    top: 00%;
+    left: 0%;
+    border-radius: 1rem;
+}
+.account-functionality{
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 50vh;
+    padding-right: 1.6rem;
+}
+.personal-setting-container,.my-shop-setting-container{
+    background-image: linear-gradient(to left, var(--color-three), var(--color-four));  
+    border-radius: 1rem;
+    
+}
+.name-acc-default,.name-acc-default-value,.product-list{
+    font-size: 1.4rem;
+    color: #000;
+}
+.product-list,.total-products-value{
+    color: #fff;
+}
+.total-products-value{
+    font-size: 2.4rem;
+    padding: 1rem 2rem;
+    background-color: var(--color-two);
+    color: #000;
+    border-radius: 0.5rem 0.5rem 3rem 0.5rem;
+    outline: 0.5rem solid var(--color-two);
+    outline-style: dashed;
+}
+.display-current-info-contianer{
+    background-color: var(--color-two);
+    border-radius: 1rem;
+}
+.credentail-acc{
+    border-right: 0.2rem solid var(--color-four);
+}
+.credentail-acc:last-child{
+    border-right: none;
+}
+.change-credentials-heading,.shop-credential-heading,.shop-product-heading{
+    font-size: 2.4rem;
+    color: #fff;
+    grid-column: 1/3;
+    text-align: center;
+}
+.shop-credential-heading{
+    grid-column: 1/5;
+}
+.shop-product-heading{
+    grid-column: 1/5;
+}
+.acc-heading-top--update{
+    grid-column: 1/6;
+    color: #000;
+}
+.label-acc{
+    font-size: 1.4rem;
+    color: #fff;
+}
+.input-acc{
+    font-size: 1.4rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+}
+.input-email-password-forgot:focus,
+.input-acc:focus,.location-acc-btn:focus{
+    outline: 0.5rem solid var(--color-nine);
+    border: none;
+}
+.location-acc-btn{
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: var(--color-four);
+    color: #fff;
+    cursor: pointer;
+}
+.input-email-password-forgot{
+    padding: 1rem;
+    border: none;
+    border-radius: 1rem 0 0 1rem;
+    width: 50%;
+    background-color: #ffffff91;
+}
+.input-email-password-forgot::placeholder{
+    color: #000;
+}
+.forgot-password-acc{
+    padding: 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 0 1rem 1rem 0;
+    background-color: var(--color-two);
+    color: #000;
+}
+/*******************************************inventory display in my shop section*************/
+.my-shop-product-container{
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 65vh;
+}
+.inventory-product-img{
+    width: 100%;
+}
+.inventory-product{
+    background-color: var(--color-two);
+    border-radius: 0.5rem;
+    overflow: hidden
+}
+.inventory-product-des{
+    grid-column: 1/3;
+    line-height: 1.3;
+}
+.credentials-ofshop{
+    padding: 1rem;
+}
+.inventory-shop-name,.inventory-product-price,.inventory-product-des,.speciality-of-inventory-product{
+    font-size: 1.2rem;
+}
+.update-product{
+    border: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: var(--color-three);
+    color: var(--color-two);
+    cursor: pointer;
+}
+/******************product changing pop up*********/
+.changing-credential-heading{
+    grid-column: 1/3;
+    font-size: 2.4rem;
+}
+
+.prev-product-name,.prev-shop-product-price,.prev-shop-name-value,.prev-shop-product-value{
+    font-size: 1.4rem;
+    color: #000;
+}
+.label-inventory-product{
+    font-size: 1.4rem;
+}
+.input-inventory-product-update,.change-credential-btn{
+    padding: 0.5rem;
+    border-radius: 0.5rem 0 0 0.5rem;
+    border: none;
+}
+.change-credential-btn{
+    border-radius: 0 0.5rem 0.5rem 0;
+    font-size: 1.4rem;
+    cursor: pointer;
+    background-color: var(--color-one);
+    color: #fff;
+}
+.cancelbtn-inventory-product{
+    border: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: var(--color-one);
+    color: #fff;
+    cursor: pointer;
+}
+.open-store-from-my-acc-btn:link,.open-store-from-my-acc-btn:visited{
+    background-color: var(--color-three);
+    padding: 1rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #fff;
+}
+/*******************no product available yet pop up*************/
+.no-products-available{
+    background-color: var(--color-two);
+    grid-column: 1/5;
+    padding: 1.6rem;
+    border-radius: 1rem;
+}

@@ -1,0 +1,278 @@
+[
+    {
+        "shop_name" : "john books ltd",
+        "catagory" : "Books",
+        "location" : "ganagnage bus stand",
+        "special" : "old books",
+        "reviews" : "500+",
+        "ratings" : "4.5/5.0",
+        "image" : "/img/shop1.jpg",
+        "delivery_time" : "30 min",
+        "distance" : "3.3 Km",
+        "offer" : "off 15% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "mahal shoes",
+        "catagory" : "shoes",
+        "location" : "amritsar sadar",
+        "special" : "puma, bata",
+        "reviews" : "536+",
+        "ratings" : "4.7/5.0",
+        "image" : "/img/shop2.jpg",
+        "delivery_time" : "12 min",
+        "distance" : "0.8 Km",
+        "offer" : "off 25% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "Kashmiri dry fruits",
+        "catagory" : "dry fruits",
+        "location" : "shimla",
+        "special" : "full cashew, pearl almonds",
+        "reviews" : "1566+",
+        "ratings" : "5.0/5.0",
+        "image" : "/img/shop3.jpg",
+        "delivery_time" : "50 min",
+        "distance" : "10 Km",
+        "offer" : "200g almonds free"
+    }
+    ,
+    
+    {
+        "shop_name" : "sham grocery",
+        "catagory" : "grocery",
+        "location" : "delhi razori garden",
+        "special" : "fresh vegeies",
+        "reviews" : "451+",
+        "ratings" : "4.1/5.0",
+        "image" : "/img/shop4.jpg",
+        "delivery_time" : "45 min",
+        "distance" : "5.2 Km",
+        "offer" : "50% off"
+    }
+    ,
+    {
+        "shop_name" : "nazar leathers",
+        "catagory" : "leather",
+        "location" : "Bathinda",
+        "special" : "x-bzz available",
+        "reviews" : "1022+",
+        "ratings" : "4.6/5.0",
+        "image" : "/img/shop5.jpg",
+        "delivery_time" : "35 min",
+        "distance" : "2 Km",
+        "offer" : "5% off"
+    }
+    ,
+    {
+        "shop_name" : "john books ltd",
+        "catagory" : "Books",
+        "location" : "ganagnage bus stand",
+        "special" : "old books",
+        "reviews" : "500+",
+        "ratings" : "4.5/5.0",
+        "image" : "/img/shop1.jpg",
+        "delivery_time" : "30 min",
+        "distance" : "3.3 Km",
+        "offer" : "off 15% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "mahal shoes",
+        "catagory" : "shoes",
+        "location" : "amritsar sadar",
+        "special" : "puma, bata",
+        "reviews" : "536+",
+        "ratings" : "4.7/5.0",
+        "image" : "/img/shop2.jpg",
+        "delivery_time" : "12 min",
+        "distance" : "0.8 Km",
+        "offer" : "off 25% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "Kashmiri dry fruits",
+        "catagory" : "dry fruits",
+        "location" : "shimla",
+        "special" : "full cashew, pearl almonds",
+        "reviews" : "1566+",
+        "ratings" : "5.0/5.0",
+        "image" : "/img/shop3.jpg",
+        "delivery_time" : "50 min",
+        "distance" : "10 Km",
+        "offer" : "200g almonds free"
+    }
+    ,
+    
+    {
+        "shop_name" : "sham grocery",
+        "catagory" : "grocery",
+        "location" : "delhi razori garden",
+        "special" : "fresh vegeies",
+        "reviews" : "451+",
+        "ratings" : "4.1/5.0",
+        "image" : "/img/shop4.jpg",
+        "delivery_time" : "45 min",
+        "distance" : "5.2 Km",
+        "offer" : "50% off"
+    }
+    ,
+    {
+        "shop_name" : "nazar leathers",
+        "catagory" : "leather",
+        "location" : "Bathinda",
+        "special" : "x-bzz available",
+        "reviews" : "1022+",
+        "ratings" : "4.6/5.0",
+        "image" : "/img/shop5.jpg",
+        "delivery_time" : "35 min",
+        "distance" : "2 Km",
+        "offer" : "5% off"
+    }
+    ,
+    {
+        "shop_name" : "john books ltd",
+        "catagory" : "Books",
+        "location" : "ganagnage bus stand",
+        "special" : "old books",
+        "reviews" : "500+",
+        "ratings" : "4.5/5.0",
+        "image" : "/img/shop1.jpg",
+        "delivery_time" : "30 min",
+        "distance" : "3.3 Km",
+        "offer" : "off 15% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "mahal shoes",
+        "catagory" : "shoes",
+        "location" : "amritsar sadar",
+        "special" : "puma, bata",
+        "reviews" : "536+",
+        "ratings" : "4.7/5.0",
+        "image" : "/img/shop2.jpg",
+        "delivery_time" : "12 min",
+        "distance" : "0.8 Km",
+        "offer" : "off 25% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "Kashmiri dry fruits",
+        "catagory" : "dry fruits",
+        "location" : "shimla",
+        "special" : "full cashew, pearl almonds",
+        "reviews" : "1566+",
+        "ratings" : "5.0/5.0",
+        "image" : "/img/shop3.jpg",
+        "delivery_time" : "50 min",
+        "distance" : "10 Km",
+        "offer" : "200g almonds free"
+    }
+    ,
+    
+    {
+        "shop_name" : "sham grocery",
+        "catagory" : "grocery",
+        "location" : "delhi razori garden",
+        "special" : "fresh vegeies",
+        "reviews" : "451+",
+        "ratings" : "4.1/5.0",
+        "image" : "/img/shop4.jpg",
+        "delivery_time" : "45 min",
+        "distance" : "5.2 Km",
+        "offer" : "50% off"
+    }
+    ,
+    {
+        "shop_name" : "nazar leathers",
+        "catagory" : "leather",
+        "location" : "Bathinda",
+        "special" : "x-bzz available",
+        "reviews" : "1022+",
+        "ratings" : "4.6/5.0",
+        "image" : "/img/shop5.jpg",
+        "delivery_time" : "35 min",
+        "distance" : "2 Km",
+        "offer" : "5% off"
+    }
+    ,
+    {
+        "shop_name" : "john books ltd",
+        "catagory" : "Books",
+        "location" : "ganagnage bus stand",
+        "special" : "old books",
+        "reviews" : "500+",
+        "ratings" : "4.5/5.0",
+        "image" : "/img/shop1.jpg",
+        "delivery_time" : "30 min",
+        "distance" : "3.3 Km",
+        "offer" : "off 15% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "mahal shoes",
+        "catagory" : "shoes",
+        "location" : "amritsar sadar",
+        "special" : "puma, bata",
+        "reviews" : "536+",
+        "ratings" : "4.7/5.0",
+        "image" : "/img/shop2.jpg",
+        "delivery_time" : "12 min",
+        "distance" : "0.8 Km",
+        "offer" : "off 25% over 1500/-"
+    }
+    ,
+    {
+        "shop_name" : "Kashmiri dry fruits",
+        "catagory" : "dry fruits",
+        "location" : "shimla",
+        "special" : "full cashew, pearl almonds",
+        "reviews" : "1566+",
+        "ratings" : "5.0/5.0",
+        "image" : "/img/shop3.jpg",
+        "delivery_time" : "50 min",
+        "distance" : "10 Km",
+        "offer" : "200g almonds free"
+    }
+    ,
+    
+    {
+        "shop_name" : "sham grocery",
+        "catagory" : "grocery",
+        "location" : "delhi razori garden",
+        "special" : "fresh vegeies",
+        "reviews" : "451+",
+        "ratings" : "4.1/5.0",
+        "image" : "/img/shop4.jpg",
+        "delivery_time" : "45 min",
+        "distance" : "5.2 Km",
+        "offer" : "50% off"
+    }
+    ,
+    {
+        "shop_name" : "nazar leathers",
+        "catagory" : "leather",
+        "location" : "Bathinda",
+        "special" : "x-bzz available",
+        "reviews" : "1022+",
+        "ratings" : "4.6/5.0",
+        "image" : "/img/shop5.jpg",
+        "delivery_time" : "35 min",
+        "distance" : "2 Km",
+        "offer" : "5% off"
+    }
+    ,
+    {
+        "shop_name" : "sadar plywood",
+        "catagory" : "wood",
+        "location" : "Bathinda",
+        "special" : "x-bzz available",
+        "reviews" : "1022+",
+        "ratings" : "4.6/5.0",
+        "image" : "/img/shop6.jpg",
+        "delivery_time" : "35 min",
+        "distance" : "2 Km",
+        "offer" : "5% off"
+    }
+]
